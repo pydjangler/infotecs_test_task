@@ -14,5 +14,3 @@ The program must implement the functionality of classifying network packets; to 
 6) After reading all the packages, information about all allocated streams must be written to a CSV file.
 
 Program Note #1: Only IPv4 packets need to be classified.
-
-Note No. 2 on the program: CSV file format: <source IP address>, <recipient IP address>, <source port>, <recipient port>, <number of packets>, <number of bytes>.
