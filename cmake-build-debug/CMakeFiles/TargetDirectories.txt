@@ -1,0 +1,3 @@
+/Users/a1/Documents/package_classification/cmake-build-debug/CMakeFiles/package_classification.dir
+/Users/a1/Documents/package_classification/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a1/Documents/package_classification/cmake-build-debug/CMakeFiles/rebuild_cache.dir
